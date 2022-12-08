@@ -15,8 +15,6 @@ class MainActivity : AppCompatActivity() {
 
 
         binding.juanito.setOnClickListener {
-
-            Toast.makeText(it, "has precioando a juanito", Toast.LENGTH_SHORT).show()
         }
     }
 
